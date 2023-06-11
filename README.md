@@ -1,5 +1,5 @@
 # rp2040-HAT (16 MB)
-![board](screenshots/board.jpg)
+![board](screenshots/board.png)
 
 Easy to use rp2040 development board.
 
