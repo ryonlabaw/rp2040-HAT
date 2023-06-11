@@ -51,7 +51,7 @@ You can also manual step thru the commands, just open the file and copy-n-paste 
 # OpenOCD from a Desktop (remote)
 You can also start OpenOCD on the PI in remote mode (esp. debugging)
 
-This will allow you to debug the rp2040 from the PI, remotely on your desktop pc (in vccode for example)
+This will allow you to debug the rp2040 from the PI, remotely on your desktop pc (in VSCode for example)
 
 # example code
 This board is 100% compatible with all raspberry pi pico examples.
